@@ -1,0 +1,8 @@
+selenium==4.34.2
+pytest==8.4.1
+webdriver-manager==4.0.2
+pytest-html==4.1.1
+python-dotenv==1.1.1
+loguru==0.7.3
+flake8==7.3.0
+black==25.1.0
